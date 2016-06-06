@@ -8,7 +8,7 @@ namespace MVVMExample
 		public string[] GetCarNames()
 		{
 
-			return new string[] { "2008 Subaru Legacy", "2011 Ford Fusion", "1995 Chevy Malabu" };
+			return new string[] { "2008 Subaru Legacy", "2011 Ford Fusion", "1995 Chevy Malibu" };
 
 		}
 
